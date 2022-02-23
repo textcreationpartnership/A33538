@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Cock-pit combat, or, The baiting of the tiger, on Thursday, March 9, 1698</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33538</idno>
+            <idno type="STC">Wing C4796</idno>
+            <idno type="STC">ESTC R7447</idno>
+            <idno type="EEBO-CITATION">12144715</idno>
+            <idno type="OCLC">ocm 12144715</idno>
+            <idno type="VID">54913</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33538)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54913)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 59:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Cock-pit combat, or, The baiting of the tiger, on Thursday, March 9, 1698</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:54913:1" rendition="simple:additions"/>
+            <head>
+               <hi>The Cock-Pit Combat:</hi> OR, THE BAITING OF THE TIGER, On <hi>Thurſday March</hi> 9. 1698.</head>
+            <lg>
+               <l>AN Over grown <hi>Cat,</hi> of a very large ſize,</l>
+               <l>To the wonder of <hi>Fools,</hi> be it known to the <hi>Wiſe,</hi>
+               </l>
+               <l>Some Twelve-months ago was brought o'er from the <hi>Eaſt,</hi>
+               </l>
+               <l>Being grown from a <hi>Kitten</hi> to a wonderful Beaſt:</l>
+               <l>From his <hi>Strength,</hi> and his <hi>Whiskers,</hi> his <hi>Tallons</hi> and <hi>Vigour,</hi>
+               </l>
+               <l>Our <hi>Bear-Garden</hi> Judges do ſay he'<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a <hi>Tig<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+               </l>
+               <l>Being fam'd for his <hi>Fierceneſs,</hi> his <hi>Name,</hi> and his <hi>Nature,</hi>
+               </l>
+               <l>The Town was all Mad for a ſight of the Creature:</l>
+               <l>Who was Collar'd and Fetter'd his Courage to cool,</l>
+               <l>Then all were admitted at Three pence <hi>per Fool.</hi>
+               </l>
+               <l>When each to his Beaſtlineſs had been a Bubble,</l>
+               <l>From Cobler and Crack, to the Knight and the Noble,</l>
+               <l>By ſtanch Politicians, the matter was ſtated,</l>
+               <l>For a Cunning By-End, that the Beaſt ſhould be Baited.</l>
+               <l>The <hi>Cock-pit</hi> was taken, and <hi>Galleries</hi> built,</l>
+               <l>To Accommodate Lady, Lord, Bully, and Jilt;</l>
+               <l>Where Places were fitted from Guinea to Crown,</l>
+               <l>For the Worſhipful Squire, to the Man of the Town:</l>
+               <l>The day was appointed, and all things agreed,</l>
+               <l>Three Dogs were procur'd, of the Slabber-chap'd-breed;</l>
+               <l>When the hour drew on, and each Longing Spectator,</l>
+               <l>Had taken their Seat in the <hi>Cocks-combs Theatre,</hi>
+               </l>
+               <l>The <hi>Tyger</hi> was led down in Chains quickly a'ter,</l>
+               <l>As Tame to the Pit, as a Sheep to the Slaughter;</l>
+               <l>In Irons confin'd, and abundance of Tackle,</l>
+               <l>He rattled about, like a Thief in his Shackle.</l>
+               <l>Yet holding his Fetters in Noble Diſdain,</l>
+               <l>He hopp'd to and fro, like a Flea in a Chain.</l>
+               <pb facs="tcp:54913:2"/>
+               <l> When the <hi>Ladies</hi> all ſaw that the Beaſt was Secur'd,</l>
+               <l>And the <hi>Beaus</hi> found no danger of being Devour'd,</l>
+               <l>Each Dog was led in by the Looby his Maſter,</l>
+               <l>Who trembled for fear of his Boobies diſaſter.</l>
+               <l>The <hi>Tyger</hi> half frighted, look'd pittiful pale-on't,</l>
+               <l>And view'd with much Terrour each Yelping Aſſailant,</l>
+               <l>He Piſs'd and he Growl'd, and he Growl'd and he Piſs'd,</l>
+               <l>The Fools were all Frighted, the Wiſer ſort Hiſs'd.</l>
+               <l>Then a Let-go was made, by the Lord of the Rout,</l>
+               <l>Who encourag'd his Dog with a <hi>Hockly-hole</hi> Shout.</l>
+               <l>The <hi>Tyger</hi> not us'd to their <hi>Bear-Garden</hi> play,</l>
+               <l>Was amaz'd when he found he was got in a Fray,</l>
+               <l>And exerting his Strength, being terribly frighted,</l>
+               <l>He Kill'd the poor <hi>Cur,</hi> as I hope to be Knighted;</l>
+               <l>Who has taken his farewel of <hi>Bear</hi> and of <hi>Bull,</hi>
+               </l>
+               <l>As he liv'd like a Puppy, he dy'd like a Fool.</l>
+               <l>With the Rabbles Huzza then they Let go another,</l>
+               <l>To revenge the loſt Blood of his Boobily Brother,</l>
+               <l>Who gave the poor <hi>Tyger</hi> a <hi>Bear-Garden</hi> Twirl,</l>
+               <l>And flung him on's Back, as a Man wou'd a Girl.</l>
+               <l>His ſturdy Attendance, who watchfully waited,</l>
+               <l>Being angry to ſee his young Maſter ſo Baited,</l>
+               <l>He ups with his Pole, that the Blow might be fatal,</l>
+               <l>And knocks down the Dog in the midſt of the Battel:</l>
+               <l>The Owner cry'd, <hi>Z—ds, what d'ye mean, Sir, by that,</hi>
+               </l>
+               <l>
+                  <hi>To diſcourage my Dog with a knock on the Pate,</hi>
+               </l>
+               <l>
+                  <hi>For the Blow you have gi'n him, I'll give you another,</hi>
+               </l>
+               <l>
+                  <hi>I'll ſtand by my Dog, as I wou'd by my Brother?</hi>
+               </l>
+               <l>So to it they fell, with like Courage and Vigour,</l>
+               <l>And ſhew'd better Sport, than the <hi>Dog</hi> and the <hi>Tyger.</hi>
+               </l>
+               <l>At the end of the ſquabble, the third was let go,</l>
+               <l>Who ran like a fury to Battel his Foe:</l>
+               <l>Made no more of the <hi>Tyger</hi> (as People do brag-on)</l>
+               <l>Than a ſturdy Knight-Errant, would do of a Dragon.</l>
+               <l>When they'd tumbled and buſtled a little about,</l>
+               <l>Like Puppys at Play, for the Sport of the Rout,</l>
+               <l>They parted the Enemies, ended the Fray,</l>
+               <l>And the Crowd all affronted came grumbling away.</l>
+               <l>It is ſaid by the Old <hi>India</hi> Company too,</l>
+               <l>'Twas the meereſt Sham-Battel that ever they knew.</l>
+               <l>Of this there's a great deal of ſtuff might be ſaid,</l>
+               <l>But I learn'd when a Boy, what I'll keep till I'm Dead,</l>
+               <l>A cloſe Mouth in many things makes a wiſe Head.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
